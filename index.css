@@ -1,0 +1,30 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 80px;
+    margin-top: 70px;
+}
+
+#LeftArrow{
+    background-color: rgb(238, 47, 47);
+    size: 20px;
+    border-radius: 20px;
+    width: 30px;
+}
+
+#RightArrow{
+    background-color: rgb(238, 47, 47);
+    size: 20px;
+    border-radius: 20px;
+    width: 30px;
+}
+div{
+    background-color: antiquewhite;
+    width: 130px;
+}
+
+
+span{
+    justify-content: center;
+}
